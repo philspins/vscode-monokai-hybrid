@@ -1,0 +1,21 @@
+{
+    "name": "monokai-hybrid",
+    "displayName": "Monokai Hybrid Theme",
+    "description": "A theme that uses Monokai syntax colours with Monokai Dimmed application colours",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Hybrid",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Hybrid-color-theme.json"
+            }
+        ]
+    }
+}
